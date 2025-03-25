@@ -57,7 +57,7 @@ do
 end
 
 -- URL к вашему установщику
-local installerUrl = "https://raw.githubusercontent.com/KilDoomWise/InfluxOS/master/Installer/Main.lua"
+local installerUrl = "https://raw.githubusercontent.com/KilDoomWise/InfluxOS/main/Installer/Main.lua"
 
 -- Проверка доступности сервера
 do
